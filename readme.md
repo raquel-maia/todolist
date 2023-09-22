@@ -8,7 +8,7 @@
 
 * CSS
 
-* jAVAsCRIPT
+* JavaScript
 
 ## Feito por:
 
