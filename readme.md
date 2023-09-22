@@ -10,8 +10,6 @@
 
 * JavaScript
 
-## Feito por:
-
-### Raquel Maia
+## Feito por: Raquel Maia
 
 ### Linkedin: https://www.linkedin.com/in/raquel-maia-860/
